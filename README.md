@@ -6,5 +6,5 @@ Este libro presenta los aspectos relacionados con el diseño y análisis de las 
 
 
 
-https://jgbabativam.github.io/Libro\_PES/
+https://jgbabativam.github.io/Libro_PES/
 
